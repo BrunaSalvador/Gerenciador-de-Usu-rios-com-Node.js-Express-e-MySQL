@@ -1,4 +1,4 @@
-# Gerenciador-de-Usu-rios-com-Node.js-Express-e-MySQL
+# Gerenciador-de-Usuários-com-Node.js-Express-e-MySQL
 <h2>Descrição</h2>
 <p>Este projeto é um CRUD básico para gerenciar usuários, utilizando Node.js, Express.js e MySQL. Ele demonstra as principais funcionalidades do padrão MVC e como interagir com um banco de dados relacional.</p>
 
